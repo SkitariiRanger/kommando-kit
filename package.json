@@ -1,0 +1,12 @@
+{
+  "name": "kommando-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SkitariiRanger/kommando-kit.git",
+  "author": "SkitariiRanger <alexander.t.johnson@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^1.5.2",
+    "react-bootstrap": "^0.32.1"
+  }
+}
